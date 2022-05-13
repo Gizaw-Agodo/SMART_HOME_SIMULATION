@@ -1,4 +1,4 @@
-# SMART_HOME_SIMULATION
+# SMART_HOME_SIMULATION_GRAPHICS
  <h3>graphics project for simulating smart home </h3> 
 some of the feautures of smart home are
 <h4> device communication</h4>
