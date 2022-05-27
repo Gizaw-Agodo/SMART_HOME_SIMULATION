@@ -13,10 +13,6 @@ def init():
     pygame.display.set_caption('Smart Home')
     gluOrtho2D(-10.0, 10.0, -10.0, 10.0)
 
-
-
-
-    
 def main():
     init()
     run = True
