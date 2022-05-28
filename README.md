@@ -1,6 +1,6 @@
 # SMART_HOME_SIMULATION_GRAPHICS
  <h3>Graphics project for simulating smart home </h3> 
-Some of the feautures of our smart home project are:
+Some of the features that our project have are:
 <h4> Device communication</h4>
 In smart home You could connect the devices and appliances in your home so they can communicate with each other and with you.
 <h4>Remote access</h4>
